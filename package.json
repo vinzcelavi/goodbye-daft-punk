@@ -1,7 +1,7 @@
 {
-  "name": "goodbye-daft-punk",
+  "name": "goodbye-daft-punk-github",
   "version": "1.0.0",
-  "description": "A dead simple search filter items",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
